@@ -1,0 +1,342 @@
+h1, h2, h3, p {
+	margin: 9px;
+	padding: 9px;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+	font-family:italic;
+    font-size: 113%;
+    color:#000000;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+@page {
+	margin:3px;
+}
+div.art {
+	text-align:center;
+	text-indent:0;
+	margin:0;
+}
+div.arth {
+	text-align:center;
+	text-indent:0;
+	margin:1.25em 0 1.25em 0;
+}
+div.artw {
+	padding-top: 15%;
+	text-align:center;
+	text-indent:0;
+	margin:0 0 0 0;
+}
+div.art1 {
+	text-align:center;
+	text-indent:0;
+	margin:1.25em 0 1.25em 0;
+}
+p.ata {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.75em;
+	line-height : 1.15;
+	text-align : left;
+	text-indent : 0;
+	margin : 0 5em 0 0;
+}
+h1.atat {
+	font-family: sans-serif;
+	font-size:.7em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.25;
+	text-align:left;
+	text-indent:0;
+	margin : 5em 0 0 0;
+}
+h2.atat1 {
+	color:#a7a9ac;
+	font-family: sans-serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.25;
+	text-align:left;
+	text-indent:0;
+	text-transform:uppercase;
+	margin : 0 0 .5em 0;
+}
+h1.cn {
+	color:#a7a9ac;
+	letter-spacing: .08em;
+	font-family: sans-serif;
+	font-size:1.35em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.25;
+	text-align:left;
+	text-indent:0;
+	text-transform:uppercase;
+	margin : 35% 0 1em 0;
+}
+p.crt {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family: sans-serif;
+	font-size:.55em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.15;
+	text-align:left;
+	text-indent:0;
+	margin : 0 0 0 0;
+}
+p.crtf {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family: sans-serif;
+	font-size:.55em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.15;
+	text-align:left;
+	text-indent:0;
+	margin : .75em 0 0 0;
+}
+h1.fmt {
+	color:#a7a9ac;
+	font-family: sans-serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.25;
+	text-align:left;
+	text-indent:0;
+	text-transform:uppercase;
+	margin : 15% 0 1.25em 2em;
+}
+h2.h1 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family: sans-serif;
+	font-size:.8em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.5;
+	text-align:left;
+	text-indent:0;
+	text-transform:uppercase;
+	margin : 0 0 1.25em 0;
+}
+p.orn {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-size:1.5em;
+	font-style:normal;
+	font-weight:normal;
+	line-height:1.4;
+	text-align:center;
+	text-indent:0;
+	margin : .8em 0 .7em 0;
+}
+p.ext {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.85em;
+	line-height : 1.25;
+	text-align : justify;
+	text-indent : 1em;
+	margin : 0 2em 0 1em;
+}
+p.extf {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.85em;
+	line-height : 1.25;
+	text-align : justify;
+	text-indent : 0;
+	margin : 0 2em 0 1em;
+}
+p.extl {
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.85em;
+	line-height : 1.25;
+	text-align : justify;
+	text-indent : 1em;
+	margin : 0 2em 1.25em 1em;
+}
+p.exts {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : center;
+	text-indent : 0;
+	margin : 1.25em 0 1.25em 0;
+}
+p.p {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : left;
+	text-indent : 1em;
+	margin :0;
+}
+p.pcust1 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family: sans-serif;
+	font-size:.8em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.5;
+	text-align:left;
+	text-indent:0;
+	text-transform:uppercase;
+	margin : 1.25em 0 1.25em 0;
+}
+p.pcust2 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : right;
+	text-indent : 1em;
+	margin : 0 1em 0 1em;
+}
+p.pcust3 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : left;
+	text-indent : 0;
+	margin : 1.25em 1em 0 1em;
+}
+p.pcust7 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : left;
+	text-indent : 0;
+	margin : 0 1em 0 1em;
+}
+p.pcust4 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : right;
+	text-indent : 1em;
+	margin : 0 1em 1.25em 1em;
+}
+p.pcust5 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : right;
+	text-indent : 1em;
+	margin : 1.25em 1em 0 1em;
+}
+p.pcust6 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : italic;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : right;
+	text-indent : 1em;
+	margin : 1.25em 1em 1.25em 1em;
+}
+p.sp {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : left;
+	text-indent : 1em;
+	margin : 1.25em 0 0 0;
+}
+p.paft {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : left;
+	text-indent : 0;
+	margin : 1.25em 0 0 0;
+}
+p.pf {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.9em;
+	line-height : 1.25;
+	text-align : left;
+	text-indent : 0;
+	margin : 0;
+}
+p.toc {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-weight:normal;
+	font-style:normal;
+	font-size:0.8em;
+	line-height:1.2;
+	text-align:left;
+	text-indent:0;
+	margin:.5em 3em 0 5em;
+}
+span.strk {
+	text-decoration:line-through;
+}
+span.b {
+	font-weight:bold;
+}
+span.b1 {
+	font-family: sans-serif;
+	font-weight:bold;
+}
+span.bi {
+	font-weight:bold;
+	font-style:italic;
+}
+span.da {
+	font-family: sans-serif;
+	font-weight:bold;
+}
+span.first {
+	font-family: sans-serif;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.i {
+	font-style : italic;
+}

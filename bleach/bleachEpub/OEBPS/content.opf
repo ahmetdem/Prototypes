@@ -1,0 +1,97 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Bleach: Can’t Fear Your Own World, Vol. 2</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Tite Kubo, Ryohgo Narita">Tite Kubo, Ryohgo Narita</dc:creator>
+    <dc:rights>Copyright 2018 by Tite Kubo, Ryohgo Narita</dc:rights>
+    <dc:publisher>VIZ Media</dc:publisher>
+    <dc:date>2020-11-15T05:00:00+00:00</dc:date>
+    <dc:identifier id="BookId">9781974718504</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>en-US</dc:language>
+    <dc:identifier opf:scheme="calibre">62f2a45d-16c0-4704-a185-a3e9a960267c</dc:identifier>
+    <meta name="cover" content="cover-image"/>
+    <meta name="calibre:title_sort" content="Bleach: Can’t Fear Your Own World, Vol. 2"/>
+    <meta name="calibre:author_link_map" content="{&quot;Tite Kubo, Ryohgo Narita&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="CoverPage.xhtml" id="CoverPage" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-00a_TOC.xhtml" id="TOC" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-00b_COC.xhtml" id="COC" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-00c_TP.xhtml" id="TP" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-00d_EPI.xhtml" id="EPI" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-01.xhtml" id="CH01" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-02.xhtml" id="CH02" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-03.xhtml" id="CH03" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-04.xhtml" id="CH04" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-05.xhtml" id="CH05" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-06.xhtml" id="CH06" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-07.xhtml" id="CH07" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-08.xhtml" id="CH08" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-09.xhtml" id="CH09" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-10.xhtml" id="CH10" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-11.xhtml" id="CH11" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-12.xhtml" id="CH12" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-13.xhtml" id="CH13" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-14.xhtml" id="CH14" media-type="application/xhtml+xml"/>
+    <item href="Kubo_-15.xhtml" id="CH15" media-type="application/xhtml+xml"/>
+    <item href="Kubo_b1_CON.xhtml" id="CON" media-type="application/xhtml+xml"/>
+    <item href="Kubo_b2_CR.xhtml" id="CR" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/idGeneratedStyles.css" id="css" media-type="text/css"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg"/>
+    <item href="images/art.jpg" id="art.jpg" media-type="image/jpeg"/>
+    <item href="images/boba1.jpg" id="boba1.jpg" media-type="image/jpeg"/>
+    <item href="images/boba2.jpg" id="boba2.jpg" media-type="image/jpeg"/>
+    <item href="images/boba3.jpg" id="boba3.jpg" media-type="image/jpeg"/>
+    <item href="images/coc1.jpg" id="coc1.jpg" media-type="image/jpeg"/>
+    <item href="images/coc2.jpg" id="coc2.jpg" media-type="image/jpeg"/>
+    <item href="images/coc3.jpg" id="coc3.jpg" media-type="image/jpeg"/>
+    <item href="images/coc4.jpg" id="coc4.jpg" media-type="image/jpeg"/>
+    <item href="images/epi1.jpg" id="epi1.jpg" media-type="image/jpeg"/>
+    <item href="images/epi2.jpg" id="epi2.jpg" media-type="image/jpeg"/>
+    <item href="images/ins1.jpg" id="ins1.jpg" media-type="image/jpeg"/>
+    <item href="images/ins2.jpg" id="ins2.jpg" media-type="image/jpeg"/>
+    <item href="images/p135.jpg" id="p135.jpg" media-type="image/jpeg"/>
+    <item href="images/p183.jpg" id="p183.jpg" media-type="image/jpeg"/>
+    <item href="images/p19.jpg" id="p19.jpg" media-type="image/jpeg"/>
+    <item href="images/p232.jpg" id="p232.jpg" media-type="image/jpeg"/>
+    <item href="images/p237.jpg" id="p237.jpg" media-type="image/jpeg"/>
+    <item href="images/p261.jpg" id="p261.jpg" media-type="image/jpeg"/>
+    <item href="images/p286.jpg" id="p286.jpg" media-type="image/jpeg"/>
+    <item href="images/p461.jpg" id="p461.jpg" media-type="image/jpeg"/>
+    <item href="images/p462.jpg" id="p462.jpg" media-type="image/jpeg"/>
+    <item href="images/p473.jpg" id="p473.jpg" media-type="image/jpeg"/>
+    <item href="images/toc.jpg" id="toc.jpg" media-type="image/jpeg"/>
+    <item href="images/tp.jpg" id="tp.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="CoverPage"/>
+    <itemref idref="TOC"/>
+    <itemref idref="COC"/>
+    <itemref idref="TP"/>
+    <itemref idref="EPI"/>
+    <itemref idref="CH01"/>
+    <itemref idref="CH02"/>
+    <itemref idref="CH03"/>
+    <itemref idref="CH04"/>
+    <itemref idref="CH05"/>
+    <itemref idref="CH06"/>
+    <itemref idref="CH07"/>
+    <itemref idref="CH08"/>
+    <itemref idref="CH09"/>
+    <itemref idref="CH10"/>
+    <itemref idref="CH11"/>
+    <itemref idref="CH12"/>
+    <itemref idref="CH13"/>
+    <itemref idref="CH14"/>
+    <itemref idref="CH15"/>
+    <itemref idref="CON"/>
+    <itemref idref="CR"/>
+  </spine>
+  <guide>
+    <reference href="CoverPage.xhtml" title="CoverPage" type="cover"/>
+    <reference href="Kubo_-00a_TOC.xhtml" title="TOC" type="toc"/>
+    <reference href="Kubo_-01.xhtml" title="Interlude" type="text"/>
+  </guide>
+</package>
