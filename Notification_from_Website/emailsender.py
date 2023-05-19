@@ -1,7 +1,11 @@
 from email.message import EmailMessage
-import ssl, smtplib
+from dotenv import load_dotenv
+import ssl, smtplib, os
 
-def SEND_EMAIL(receiver: str, password = "uwhiwfkfssbgdges"):
+load_dotenv('.env')
+email_password = os.getenv('EMAIL_PASSWORD')
+
+def SEND_EMAIL(receiver: str, password = email_password):
     """
     Sends an email with the values provided.
     """
