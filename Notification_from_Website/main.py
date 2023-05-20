@@ -27,7 +27,7 @@ def main():
 
     if href != previous_href:
         # If the href is different, send an email and update the href.txt
-        SEND_EMAIL('ahmetyusufdmr88@gmail.com')
+        SEND_EMAIL('ahmetyusufdmr88@gmail.com', content=a_tag)
 
         with open('href.txt', 'w', encoding='utf-8') as f:
             f.write(href)
@@ -36,7 +36,7 @@ def main():
         print('No new announcement.')
 
 # Schedule and run main() every 1 minute
-schedule.every(10).seconds.do(main)
+schedule.every(10).minutes.do(main)
 
 # Continuously check for pending scheduled tasks
 while True:

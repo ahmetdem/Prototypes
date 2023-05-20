@@ -5,7 +5,7 @@ import ssl, smtplib, os
 load_dotenv('.env')
 email_password = os.getenv('EMAIL_PASSWORD')
 
-def SEND_EMAIL(receiver: str, password = email_password):
+def SEND_EMAIL(receiver: str, content: str, password = email_password):
     """
     Sends an email with the values provided.
     """
@@ -16,7 +16,9 @@ def SEND_EMAIL(receiver: str, password = email_password):
     To Person <ahmetyusufdmr88@gmail.com>
 
     An announcement has been made.
-    """
+
+    {}
+    """.format(content)
 
     em = EmailMessage()
 
