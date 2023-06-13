@@ -1,8 +1,11 @@
-import requests
+import requests, os
+from dotenv import load_dotenv
 
-CLIENT_ID = '887a957732af403c9a9a9cc42e357e89'
-CLIENT_SECRET = '8858b54fda2f424391892fe98022ce56'
+load_dotenv('.env')
 
+# Client Keys
+CLIENT_ID = os.getenv('CLIENT_ID')
+CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 AUTH_URL = 'https://accounts.spotify.com/api/token'
 
 # POST
