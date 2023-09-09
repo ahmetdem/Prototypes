@@ -2,7 +2,9 @@ import os, shutil, glob
 from zipfile import ZipFile
 
 #Change Epub to zip
-epubDir = input("Enter the path: ")
+epubDir = input("Enter the path: ")[1:-1]
+print(epubDir)
+
 epubName = list(epubDir.split('\\'))[-1]
 
 newName = epubDir.replace(".epub", ".zip")
@@ -35,6 +37,7 @@ os.remove(cssFile)
 
 shutil.copy('stylesheet.css',
             cssFile)
+
 n = shutil.make_archive(folderName, "zip", zipPath)
 
 os.rename(n, epubDir)
